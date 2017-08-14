@@ -1,5 +1,5 @@
 {
-  "name": "app-root",
+  "name": "appStructure",
   "version": "1.0.0",
   "description": "Structure MVC of app nodejs ",
   "main": "index.js",
